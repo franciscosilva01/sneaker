@@ -1,4 +1,3 @@
 # sneaker
-💎https://franciscosneaker.netlify.app/
-
+💎https://franciscotenis.netlify.app/
  
